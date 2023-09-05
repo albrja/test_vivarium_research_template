@@ -1,0 +1,5 @@
+include LICENSE
+include README.rst
+
+recursive-include src/test_vivarium_research_template *.py *.yaml *.ipynb
+recursive-include tests *.py *txt *.yaml
